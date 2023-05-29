@@ -6,4 +6,4 @@ Wordle.txt - stores all possible words
 
 Main file is called tutorial.cpp
 
-<img src="/WinAPI-Wordle/Images/screen1.png" alt="screen1" title="sample screen">
+<img src="/Images/screen1.png" alt="screen1" title="sample screen">
